@@ -1,0 +1,7 @@
+name: Pages reference
+on: workflow_dispatch
+jobs:
+  info:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Kept in /workflows to satisfy the no-nested-folders layout. GitHub only auto-runs workflows from .github/workflows."
