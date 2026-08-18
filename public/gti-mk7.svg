@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 190">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#8e969f"/><stop offset=".45" stop-color="#dfe3e8"/><stop offset=".72" stop-color="#f7f9fb"/><stop offset="1" stop-color="#969da6"/></linearGradient></defs>
+<path d="M22 17 Q50 8 78 17 L84 49 L89 139 Q86 174 50 184 Q14 174 11 139 L16 49 Z" fill="url(#b)" stroke="#181c22" stroke-width="4"/>
+<path d="M28 54 Q50 38 72 54 L76 92 Q50 83 24 92Z" fill="#111820" stroke="#303740" stroke-width="2"/>
+<path d="M23 97 Q50 87 77 97 L80 132 Q50 143 20 132Z" fill="#afb6bf" opacity=".65"/>
+<path d="M25 34 L47 29 L45 40 L27 43Z" fill="#eef6ff"/><path d="M75 34 L53 29 L55 40 L73 43Z" fill="#eef6ff"/>
+<path d="M24 46 L76 46" stroke="#d71933" stroke-width="4"/>
+<rect x="18" y="139" width="64" height="16" rx="6" fill="#1c2026"/>
+<path d="M29 151 Q50 159 71 151" stroke="#d71933" stroke-width="3" fill="none"/>
+<rect x="7" y="47" width="10" height="34" rx="4" fill="#101317"/><rect x="83" y="47" width="10" height="34" rx="4" fill="#101317"/>
+<rect x="7" y="120" width="10" height="34" rx="4" fill="#101317"/><rect x="83" y="120" width="10" height="34" rx="4" fill="#101317"/>
+<text x="50" y="177" text-anchor="middle" font-family="Arial" font-size="8" font-weight="bold" fill="#1b1e22">MK7</text>
+</svg>
