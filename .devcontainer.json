@@ -1,0 +1,10 @@
+{
+  "name": "GTI Nav",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "forwardPorts": [5173, 3001],
+  "portsAttributes": {
+    "5173": {"label":"GTI Nav Web","onAutoForward":"openPreview"},
+    "3001": {"label":"GTI Nav Socket Server"}
+  },
+  "postCreateCommand": "npm install"
+}

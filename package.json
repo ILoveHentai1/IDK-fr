@@ -1,0 +1,14 @@
+{
+  "name": "gti-nav",
+  "private": true,
+  "workspaces": ["apps/web", "apps/server"],
+  "scripts": {
+    "dev": "concurrently -n server,web -c auto \"npm run dev -w apps/server\" \"npm run dev -w apps/web\"",
+    "build": "npm run build -w apps/web",
+    "start": "npm run start -w apps/server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "engines": {"node": ">=20"}
+}
